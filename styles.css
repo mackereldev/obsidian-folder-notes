@@ -2,6 +2,7 @@
     width: 100%;
     padding-bottom: 4px !important;
     padding-top: 4px !important;
+	padding-right: 8px !important;
 }
 
 .mod-rtl .fn-whitespace-stop-collapsing .nav-folder-title-content {
